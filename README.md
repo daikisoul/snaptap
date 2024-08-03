@@ -1,7 +1,4 @@
-/*
-AutoHotkey Script for Seamless Movement Control in Games
 
-Description:
   This script allows dynamic switching between 'a' and 'd' keys to ensure continuous movement in games.
   When one key is held and the other is pressed, the script switches movement to the newly pressed key.
 
@@ -24,4 +21,4 @@ How It Works:
 Usage:
   - Run this script with AutoHotkey before playing the game to activate it.
   - Designed for games where 'a' and 'd' control left and right movements.
-*/
+
